@@ -1,3 +1,4 @@
+# Fire Detection Using OpenCV for Real Time and Custom Data
 ## Overview 
 This project demonstrates how to detect fire from images using YOLOv8 in Google Colab and from a webcam using PyCharm.
 
