@@ -9,8 +9,8 @@ This project demonstrates how to detect fire from images using YOLOv8 in Google 
 - PyCharm 
 
 ## Setup
-1.Clone this repository:git clone https://github.com/Hamida-majumder/mdmynoddin.git
-2.Install dependencies:pip install -r requirements.txt
+1.Clone this repository: git clone https://github.com/Hamida-majumder/mdmynoddin.git
+2.Install dependencies: pip install -r requirements.txt
 3.Download YOLOv8 weights
 
 ## Fire Detection from Images in Google Colab
