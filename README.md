@@ -54,7 +54,7 @@ fire detect from images
 
 ![photo_2024-05-13_01-51-18](https://github.com/Hamida-majumder/mdmynoddin/assets/160351711/50fe28b4-a7cc-4731-9245-494bb6903f3e)
 
-and detect fire with alarm system from webcam 
+and detect fire with alarming system through webcam 
 
 ![Screenshot (129)](https://github.com/Hamida-majumder/mdmynoddin/assets/160351711/48ff9945-f216-4c0f-84d6-cd5b0d6bae56)
 
