@@ -2,10 +2,10 @@
 This project demonstrates how to detect fire from images using YOLOv8 in Google Colab and from a webcam using PyCharm.
 
 ## Requirements 
--Python 3.x
--OpenCV
--Google Colab 
--PyCharm 
+- Python 3.x
+- OpenCV
+- Google Colab 
+- PyCharm 
 
 ## Setup
 1.Clone this repository:git clone https://github.com/Hamida-majumder/mdmynoddin.git
